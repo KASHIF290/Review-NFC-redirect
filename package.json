@@ -1,0 +1,12 @@
+{
+  "name": "review-card-redirect",
+  "version": "1.0.0",
+  "description": "Dynamic QR/NFC redirect service for Google review cards",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
